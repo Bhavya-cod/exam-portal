@@ -1,4 +1,4 @@
-import{r as l,j as e,c as M}from"./index-z4tH0fPJ.js";import{F}from"./index-DkPrSN7X.js";const $=l.forwardRef(({testCases:o,onGraded:S},k)=>{const[u,C]=l.useState("71"),[g,m]=l.useState(`import sys
+import{r as l,j as e,c as M}from"./index-BAbUYsG8.js";import{F}from"./index-BAraGVMW.js";const $=l.forwardRef(({testCases:o,onGraded:S},k)=>{const[u,C]=l.useState("71"),[g,m]=l.useState(`import sys
 # Use sys.stdin.read() or input() to get test case input
 print("Hello World!")`),[R,i]=l.useState(""),[p,c]=l.useState(!1),[b,v]=l.useState([]),[x,h]=l.useState("console"),[j,I]=l.useState(""),O=t=>{m(t)};l.useImperativeHandle(k,()=>({evaluate:y}));const L=t=>{const s=t.target.value;C(s),s==="71"&&m(`import sys
 # Example: sys.stdin.read()

@@ -1,4 +1,4 @@
-import{r as s,j as e}from"./index-z4tH0fPJ.js";import{F as l}from"./index-DkPrSN7X.js";function u(){const[a,c]=s.useState("<h1>Hello World</h1>"),[r,d]=s.useState("h1 { color: #3b82f6; font-family: sans-serif; text-align: center; margin-top: 2rem; }"),[n,x]=s.useState('console.log("Welcome to Exam Portal");'),[m,h]=s.useState(""),[t,o]=s.useState("html"),i=()=>{h(`
+import{r as s,j as e}from"./index-BAbUYsG8.js";import{F as l}from"./index-BAraGVMW.js";function u(){const[a,c]=s.useState("<h1>Hello World</h1>"),[r,d]=s.useState("h1 { color: #3b82f6; font-family: sans-serif; text-align: center; margin-top: 2rem; }"),[n,x]=s.useState('console.log("Welcome to Exam Portal");'),[m,h]=s.useState(""),[t,o]=s.useState("html"),i=()=>{h(`
       <html>
         <body>${a}</body>
         <style>${r}</style>
