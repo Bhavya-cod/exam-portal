@@ -23,7 +23,7 @@ const PORT = process.env.PORT || 5000;
 
 // Serve frontend static files in production
 const path = require('path');
-const frontendPath = path.join(__dirname, '../frontend/dist');
+const frontendPath = path.join(__dirname, 'public');
 app.use(express.static(frontendPath));
 
 // Catch-all route to serve the React app
