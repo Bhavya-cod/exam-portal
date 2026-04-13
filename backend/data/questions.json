@@ -1,0 +1,494 @@
+{
+  "mcqs": [
+    {
+      "id": "q1",
+      "stage": "1",
+      "text": "If a train travels 60 km in 1 hour, how far will it travel in 3.5 hours?",
+      "options": [
+        "180 km",
+        "200 km",
+        "210 km",
+        "240 km"
+      ],
+      "answer": "210 km"
+    },
+    {
+      "id": "q2",
+      "stage": "1",
+      "text": "Find the missing number: 2, 6, 12, 20, ___",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": "q3",
+      "stage": "1",
+      "text": "A shop gives 10% discount on ₹500. Final price?",
+      "options": [
+        "₹450",
+        "₹400",
+        "₹420",
+        "₹480"
+      ],
+      "answer": "₹450"
+    },
+    {
+      "id": "q4",
+      "stage": "1",
+      "text": "25% of 200 = ?",
+      "options": [
+        "25",
+        "50",
+        "75",
+        "100"
+      ],
+      "answer": "50"
+    },
+    {
+      "id": "q5",
+      "stage": "1",
+      "text": "If 5 workers complete a task in 10 days, how many days for 10 workers?",
+      "options": [
+        "10",
+        "5",
+        "15",
+        "20"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": "q6",
+      "stage": "1",
+      "text": "Find the odd one out:",
+      "options": [
+        "16",
+        "25",
+        "36",
+        "45"
+      ],
+      "answer": "45"
+    },
+    {
+      "id": "q7",
+      "stage": "1",
+      "text": "Simple interest on ₹1000 at 10% for 2 years?",
+      "options": [
+        "₹100",
+        "₹150",
+        "₹200",
+        "₹250"
+      ],
+      "answer": "₹200"
+    },
+    {
+      "id": "q8",
+      "stage": "1",
+      "text": "If A = 1, B = 2, then CAT = ?",
+      "options": [
+        "24",
+        "26",
+        "27",
+        "29"
+      ],
+      "answer": "24"
+    },
+    {
+      "id": "q9",
+      "stage": "1",
+      "text": "12 × 8 ÷ 4 = ?",
+      "options": [
+        "24",
+        "36",
+        "48",
+        "96"
+      ],
+      "answer": "24"
+    },
+    {
+      "id": "q10",
+      "stage": "1",
+      "text": "Average of 10, 20, 30?",
+      "options": [
+        "20",
+        "15",
+        "25",
+        "10"
+      ],
+      "answer": "20"
+    },
+    {
+      "id": "q11",
+      "stage": "1",
+      "text": "Next number: 3, 9, 27, ___",
+      "options": [
+        "54",
+        "72",
+        "81",
+        "90"
+      ],
+      "answer": "81"
+    },
+    {
+      "id": "q12",
+      "stage": "1",
+      "text": "A man walks 5 km east, then 5 km west. Distance from start?",
+      "options": [
+        "0 km",
+        "5 km",
+        "10 km",
+        "2 km"
+      ],
+      "answer": "0 km"
+    },
+    {
+      "id": "q13",
+      "stage": "1",
+      "text": "If x = 5, find x² + 2x",
+      "options": [
+        "30",
+        "35",
+        "25",
+        "20"
+      ],
+      "answer": "35"
+    },
+    {
+      "id": "q14",
+      "stage": "1",
+      "text": "Ratio 2:3 = ?",
+      "options": [
+        "4:6",
+        "6:8",
+        "3:5",
+        "5:7"
+      ],
+      "answer": "4:6"
+    },
+    {
+      "id": "q15",
+      "stage": "1",
+      "text": "144 ÷ 12 = ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": "q16",
+      "stage": "1",
+      "text": "Find next: 1, 4, 9, 16, ___",
+      "options": [
+        "20",
+        "24",
+        "25",
+        "30"
+      ],
+      "answer": "25"
+    },
+    {
+      "id": "q17",
+      "stage": "1",
+      "text": "If 3x = 27, x = ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "9"
+    },
+    {
+      "id": "q18",
+      "stage": "1",
+      "text": "Time: 2 hours 30 min = ? minutes",
+      "options": [
+        "120",
+        "150",
+        "180",
+        "200"
+      ],
+      "answer": "150"
+    },
+    {
+      "id": "q19",
+      "stage": "1",
+      "text": "Probability of head in a coin toss?",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "1/3"
+      ],
+      "answer": "1/2"
+    },
+    {
+      "id": "q20",
+      "stage": "1",
+      "text": "7² = ?",
+      "options": [
+        "42",
+        "48",
+        "49",
+        "56"
+      ],
+      "answer": "49"
+    },
+    {
+      "id": "q21",
+      "stage": "2",
+      "text": "Java is a:",
+      "options": [
+        "Procedural language",
+        "Object-Oriented language",
+        "Scripting language",
+        "Functional language"
+      ],
+      "answer": "Object-Oriented language"
+    },
+    {
+      "id": "q22",
+      "stage": "2",
+      "text": "Which keyword is used to inherit a class?",
+      "options": [
+        "this",
+        "super",
+        "extends",
+        "implements"
+      ],
+      "answer": "extends"
+    },
+    {
+      "id": "q23",
+      "stage": "2",
+      "text": "JVM stands for:",
+      "options": [
+        "Java Variable Machine",
+        "Java Virtual Machine",
+        "Java Verified Machine",
+        "Java Visual Machine"
+      ],
+      "answer": "Java Virtual Machine"
+    },
+    {
+      "id": "q24",
+      "stage": "2",
+      "text": "Which is not a primitive type?",
+      "options": [
+        "int",
+        "float",
+        "String",
+        "char"
+      ],
+      "answer": "String"
+    },
+    {
+      "id": "q25",
+      "stage": "2",
+      "text": "Entry point of Java program?",
+      "options": [
+        "start()",
+        "main()",
+        "run()",
+        "init()"
+      ],
+      "answer": "main()"
+    },
+    {
+      "id": "q26",
+      "stage": "2",
+      "text": "Which keyword is used to define constant?",
+      "options": [
+        "static",
+        "final",
+        "const",
+        "define"
+      ],
+      "answer": "final"
+    },
+    {
+      "id": "q27",
+      "stage": "2",
+      "text": "Default value of int?",
+      "options": [
+        "0",
+        "null",
+        "1",
+        "undefined"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "q28",
+      "stage": "2",
+      "text": "Which loop executes at least once?",
+      "options": [
+        "for",
+        "while",
+        "do-while",
+        "none"
+      ],
+      "answer": "do-while"
+    },
+    {
+      "id": "q29",
+      "stage": "2",
+      "text": "Which is used for memory cleanup?",
+      "options": [
+        "delete",
+        "free()",
+        "garbage collector",
+        "remove()"
+      ],
+      "answer": "garbage collector"
+    },
+    {
+      "id": "q30",
+      "stage": "2",
+      "text": "Method overloading means:",
+      "options": [
+        "Same method different class",
+        "Same name different parameters",
+        "Different name same parameters",
+        "None"
+      ],
+      "answer": "Same name different parameters"
+    },
+    {
+      "id": "q31",
+      "stage": "2",
+      "text": "Which is not OOP principle?",
+      "options": [
+        "Inheritance",
+        "Encapsulation",
+        "Compilation",
+        "Polymorphism"
+      ],
+      "answer": "Compilation"
+    },
+    {
+      "id": "q32",
+      "stage": "2",
+      "text": "Which keyword is used to create object?",
+      "options": [
+        "new",
+        "create",
+        "class",
+        "object"
+      ],
+      "answer": "new"
+    },
+    {
+      "id": "q33",
+      "stage": "2",
+      "text": "Exception handling keyword?",
+      "options": [
+        "catch",
+        "throw",
+        "try",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": "q34",
+      "stage": "2",
+      "text": "Which package contains Scanner?",
+      "options": [
+        "java.lang",
+        "java.util",
+        "java.io",
+        "java.net"
+      ],
+      "answer": "java.util"
+    },
+    {
+      "id": "q35",
+      "stage": "2",
+      "text": "String is:",
+      "options": [
+        "Primitive",
+        "Class",
+        "Interface",
+        "None"
+      ],
+      "answer": "Class"
+    },
+    {
+      "id": "q36",
+      "stage": "2",
+      "text": "Which operator compares values?",
+      "options": [
+        "=",
+        "==",
+        "!=",
+        " >="
+      ],
+      "answer": "=="
+    },
+    {
+      "id": "q37",
+      "stage": "2",
+      "text": "Which is used for multi-threading?",
+      "options": [
+        "Thread",
+        "Runnable",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "id": "q38",
+      "stage": "2",
+      "text": "Which access modifier is most restrictive?",
+      "options": [
+        "public",
+        "protected",
+        "private",
+        "default"
+      ],
+      "answer": "private"
+    },
+    {
+      "id": "q39",
+      "stage": "2",
+      "text": "Which keyword refers current object?",
+      "options": [
+        "this",
+        "super",
+        "self",
+        "object"
+      ],
+      "answer": "this"
+    },
+    {
+      "id": "q40",
+      "stage": "2",
+      "text": "Which file extension for Java bytecode?",
+      "options": [
+        ".java",
+        ".class",
+        ".exe",
+        ".jar"
+      ],
+      "answer": ".class"
+    }
+  ],
+  "codingQs": [
+    {
+      "id": "c1",
+      "stage": "3",
+      "title": "Second Largest Element in Array",
+      "description": "Write a Java program to find the second largest element in an array without using sorting. Handle duplicate values.",
+      "testCases": "[{\"input\": \"[10,20,5,8,20]\", \"output\": \"10\"}, {\"input\": \"[3,1,4,4,2]\", \"output\": \"3\"}]",
+      "language": "java"
+    }
+  ]
+}

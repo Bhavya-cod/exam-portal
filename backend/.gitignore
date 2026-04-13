@@ -1,0 +1,10 @@
+ # Dependencies
+node_modules/
+.temp/
+
+# Environment Variables - NEVER push these to GitHub
+.env
+serviceAccountKey.json
+
+# Build artifacts
+dist/
