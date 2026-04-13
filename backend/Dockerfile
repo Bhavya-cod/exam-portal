@@ -25,5 +25,5 @@ COPY . .
 # Expose port
 EXPOSE 5000
 
-# Start the server
-CMD ["node", "server.js"]
+# Start: write service account key from env var if file doesn't exist, then start server
+CMD sh -c 'if [ ! -f /app/serviceAccountKey.json ] && [ -n "$FIREBASE_SERVICE_ACCOUNT" ]; then echo "$FIREBASE_SERVICE_ACCOUNT" > /app/serviceAccountKey.json; fi && node server.js'
